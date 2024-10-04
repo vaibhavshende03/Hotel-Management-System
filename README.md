@@ -14,7 +14,7 @@ This system simplifies hotel management tasks.
 
 ## Output :
 
-<video controls src="output/Recording 2024-10-04 180048.mp4" title="HMS" autoplay></video>
+<video controls src="output/Recording 2024-10-04 180048.mp4" title="HMS" width="1000px" height="800px" autoplay></video>
 <br>
 ![alt text](/output/image.png) <br>
 ![alt text](/output/image-1.png) <br>
